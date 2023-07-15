@@ -28,7 +28,7 @@ La page contient la label filière, des ComboBox contient les différence filiè
 
  L’interface contient un Button pour télécharger le document d’inscription.
 
-     *) Example d’un fichier d’inscription :
+     1) Example d’un fichier d’inscription :
           ![Screenshot 2023-07-15 184816](https://github.com/hicham-zakroum/swing_app/assets/58310555/b4ba245f-d4a7-48ca-b9ca-66c2307f3ceb)
 
      
